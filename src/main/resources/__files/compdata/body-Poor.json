@@ -1,0 +1,11 @@
+{
+  "request": {
+    "dateOfBirth": "1967-01-01",
+    "Rating": "Poor",
+    "state": "TX"
+  },
+  "income": "D",
+  "age": "27",
+  "score": 1
+
+}

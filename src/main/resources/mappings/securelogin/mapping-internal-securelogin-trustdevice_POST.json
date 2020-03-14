@@ -1,0 +1,15 @@
+{
+    "id": "454569bb-6cc1-37ab-b66c-c097bf794cb2",
+    "request": {
+        "url": "/internal/securelogin/trustdevice",
+        "method": "POST"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "securelogin/body-internal-securelogin-trustdevice_POST.json",
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    },
+    "uuid": "454569bb-6cc1-37ab-b66c-c097bf794cb2"
+}
